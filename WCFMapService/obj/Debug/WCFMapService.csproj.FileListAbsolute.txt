@@ -1,0 +1,5 @@
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WCFMapService\bin\WCFMapService.dll
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WCFMapService\bin\WCFMapService.pdb
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WCFMapService\obj\Debug\ResolveAssemblyReference.cache
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WCFMapService\obj\Debug\WCFMapService.dll
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WCFMapService\obj\Debug\WCFMapService.pdb

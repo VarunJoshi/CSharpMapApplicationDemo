@@ -1,0 +1,14 @@
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\bin\Debug\IndependentStudy.exe.config
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\bin\Debug\IndependentStudy.exe
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\bin\Debug\IndependentStudy.pdb
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\MainWindow.baml
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\MainWindow.g.cs
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\App.g.cs
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\IndependentStudy_MarkupCompile.cache
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\IndependentStudy.g.resources
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\IndependentStudy.Properties.Resources.resources
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\IndependentStudy.exe
+F:\Varun\Fall 2011\Independent Study\Independent Study Project -Varun Joshi (941785774)\WPF-WCF-Application\WPFUserInterface\obj\x86\Debug\IndependentStudy.pdb

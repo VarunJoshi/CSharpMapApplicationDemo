@@ -1,0 +1,1 @@
+devenv IndependentStudy.sln /rebuild
