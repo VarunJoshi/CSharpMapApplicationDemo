@@ -5,8 +5,7 @@
 //  Language:      Visual C#, 2010                                      //
 //  Platform:      HP Pavilion dv4, Win7 Professional                   //
 //  Application:   User interface for WCF application                   //
-//  Author:        Varun Joshi, Syracuse University                     //
-//                 (315) 706-7277, vjoshi@syr.edu                       //
+//  Author:        Varun Joshi                                          //
 //////////////////////////////////////////////////////////////////////////
 
 
